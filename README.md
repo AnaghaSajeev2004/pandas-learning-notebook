@@ -1,6 +1,5 @@
 # Pandas Learning Notebook 🐼
 
-## 📌 About the Project
 
 This repository contains my hands-on practice with **Pandas**, a powerful Python library used for data manipulation and analysis.
 
@@ -121,11 +120,6 @@ print(df.describe())
    jupyter notebook
    ```
 
-6. Open `pandas_notebook.ipynb` and execute the cells.
-
-You can also upload the notebook to [Google Colab](https://colab.research.google.com/) to run it online.
-
-**Note:** Some notebook cells use sample CSV and Excel files. Make sure the required datasets are available at the file paths used in those cells.
 
 ## 🎓 Learning Outcomes
 
@@ -146,7 +140,7 @@ I plan to apply these concepts to real-world datasets and continue improving my 
 
 **Anagha Sajeev**
 
-Aspiring Data Analyst | Python | Pandas | NumPy | SQL | Power BI
+ Data Analyst Intern | Python | Pandas | NumPy | SQL | Power BI
 
 ---
 
